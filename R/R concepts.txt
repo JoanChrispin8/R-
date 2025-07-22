@@ -1,0 +1,10 @@
+concepts of R programming:
+R overview and evolution of R
+features of r and ENVIRONMENT SETUP:local environments setup
+R BASIC SYNTAC:R COMMAND PROMPT-R script file and comments in R
+R DATA TYPES
+R vectors,lists
+R matrices
+Array,Factor
+Data Frames
+R VARIABLES,Variable Assignment,Data Type of a Variable,Finding Variables,Deleting Variable

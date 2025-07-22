@@ -1,0 +1,6 @@
+notes of R:
+robert and rose created in 1995
+derived from C
+it mainly do the concept of library
+# is single comment line also this is used in python
+" " for multi comment line
